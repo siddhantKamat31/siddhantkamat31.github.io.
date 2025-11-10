@@ -21,3 +21,16 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+.node_modules
+.packagee-lock.json
+.pnpm-lock.yaml
+.yarn.lock
+coverage
+build
+.cache
+.next
+out
+.tmp
+.temp
+node_modules/.package-lock.json
